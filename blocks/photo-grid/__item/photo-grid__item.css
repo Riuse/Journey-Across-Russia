@@ -1,0 +1,9 @@
+.photo-grid__item {
+    margin: 0;
+    /*max-width: 282px;
+    max-height: 210px; */
+    /*max-width: 100%;*/
+    width: 100%;
+    object-fit: cover;
+}
+

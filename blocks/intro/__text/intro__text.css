@@ -1,0 +1,33 @@
+.intro__text {
+    margin: 0;
+    margin-bottom: 40px;
+    margin-right: 270px;
+    font-size: 16px;
+    line-height: 163%;
+    color: #FFFFFF;
+}
+
+@media screen and (max-width: 1024px) {
+    .intro__text {
+        margin-right: 245px;
+        margin-bottom: 33px;
+    }
+  
+  }
+
+  @media screen and (max-width: 768px) {
+    .intro__text {
+        margin-right: 0px;
+        margin-bottom: 38px;
+    }
+  
+  } 
+
+  
+  @media screen and (max-width: 320px) {
+    .intro__text {
+        margin-bottom: 44px;
+        max-width: 288px;
+    }
+  
+  } 
